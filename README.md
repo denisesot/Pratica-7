@@ -17,9 +17,12 @@ O código de controle da LED em linguagem C encontra-se no arquivo interrupt.c d
 
 Implementar um pisca LED com utilização de timer. 
 
+O código em linguagem C encontra-se no arquivo timer.c deste repositório.
 
 ---
 
 ## Parte 3
 
 Implementar um cronômetro capaz de contar segundos, minutos e horas. A cada segundo, o tempo deve ser enviado para a serial no formato hh:mm:ss. Ao pressionar um botão, o cronômetro é zerado. 
+
+O código em linguagem C encontra-se no arquivo cronometro.c deste repositório.
